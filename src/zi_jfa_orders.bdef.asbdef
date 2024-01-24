@@ -1,0 +1,10 @@
+managed;
+
+define behavior for ZI_JFA_ORDERS //alias <alias_name>
+persistent table ztorders_header
+lock master
+{
+  create;
+  update;
+  delete;
+}
