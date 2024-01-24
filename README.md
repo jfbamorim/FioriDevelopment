@@ -6,7 +6,7 @@ On the backend (Eclipse + ADT + BTP Free Trial account), for this development tw
 - ZTORDERS_HEADER
 - ZTORDERS_ITEM
 
-After this, it were created two CDS Views and usedRestful Application Programming model
+After this, it were created two CDS Views and used Restful Application Programming model
 in order to make it avaliable for consumption in the frontend side.
 
 At this point, the freestyle Fiori application will show a master list with the
