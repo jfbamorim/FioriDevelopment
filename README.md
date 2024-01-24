@@ -1,7 +1,8 @@
 # FioriDevelopment
 Fiori Applications Development
 
-The first application is an easy one. For the development two tables were created:
+The first application is an easy one. 
+On the backend (Eclipse + ADT + BTP Free Trial account), for this development two tables were created:
 - ZTORDERS_HEADER
 - ZTORDERS_ITEM
 At this point, the freestyle Fiori application will show a master list with the
